@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed security headers configuration
 - Added healthcheck endpoint stub
 - Reviewed open issues, added labels
+
+## 2026-04-29
+- Added type hints to helper functions
